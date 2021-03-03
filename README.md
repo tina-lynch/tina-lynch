@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+here's a sample of some of my github repos for a quick reference: https://tina-lynch.github.io/tina-lynch/
 <!--
 **tina-lynch/tina-lynch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
